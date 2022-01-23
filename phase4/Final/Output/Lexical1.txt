@@ -1,0 +1,15 @@
+keyword:: int
+keyword:: main
+punctuation:: (
+punctuation:: )
+punctuation:: {
+keyword:: int
+identifier:: b
+operation:: =
+number:: 0
+punctuation:: ;
+identifier:: b
+operation:: =
+number:: 4
+punctuation:: ;
+punctuation:: }
