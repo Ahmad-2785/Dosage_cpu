@@ -21,4 +21,5 @@ in the third phase we descripted Dosage in verilog <br />
 So lets build dosage in the real world too! <br />
 
 # Running C:
-an educational purpose compiler is under development for dosage
+in the third phase we designed a compiler  <br />
+So lets run C on Dosage! <br />
