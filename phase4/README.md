@@ -17,3 +17,7 @@ The project is divided to 5 Phases including:
 3. Syntax Analyzer
 4. Semantic Analyzer
 5. Code Generation
+
+
+## Refrences
+- [How to write your own C compiler from scratch with Python!](https://medium.com/@pasi_pyrro/how-to-write-your-own-c-compiler-from-scratch-with-python-90ab84ffe071#f6ed)
