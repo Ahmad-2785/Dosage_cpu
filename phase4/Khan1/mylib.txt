@@ -1,5 +1,0 @@
-#define seta int a=3
-#define START int main() {
-#define END }
-#define _OF_LINE ;
-#define Num
