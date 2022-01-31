@@ -1,8 +1,6 @@
 # dosage cpu
 dosage is a 20bit single cycle RISC cpu based on harvard architecture with no cache or pipeline, <br />
 by having very simple and reduced instruction set it can be used for educational purpose  <br />
-watch this video for introduction : https://drive.google.com/file/d/1GPNIOUYStuIIaBxNrNf2s0lSr6e-6CIY/view?usp=sharing
-<br />
 ![IMG_20210826_110946_951](https://user-images.githubusercontent.com/53050138/130913922-103b7609-2033-4ec9-bb1a-3cefda2164a0.jpg)
 
 
