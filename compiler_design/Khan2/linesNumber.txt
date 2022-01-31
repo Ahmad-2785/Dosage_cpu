@@ -1,0 +1,13 @@
+keyword:: int:: 1
+keyword:: main:: 1
+punctuation:: (:: 1
+punctuation:: ):: 1
+punctuation:: {:: 2
+keyword:: int:: 3
+identifier:: b3:: 3
+punctuation:: ;:: 3
+identifier:: b0:: 4
+operation:: =:: 4
+number:: 4:: 4
+punctuation:: ;:: 4
+punctuation:: }:: 5
