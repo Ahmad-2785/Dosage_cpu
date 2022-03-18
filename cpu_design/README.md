@@ -20,7 +20,7 @@ we defined two types of Instruction for our cpu I-types and R-types
 	/-------\    /-------\     /-------\    /----------------\         - I types
 	 0 0 0 1     0 0 1 1        0 0 1 0      0 0 0 0 1 0 1 0
    
-we are trying to add new Instructions to dosage
+we are trying to add new Instructions to dosage <br />
 this is the list of Instruction we are supporting now
 |Op Code|type  |func   |Instruction                      |Behavior                                       |
 |-------|------|-------|---------------------------------|-----------------------------------------------|
