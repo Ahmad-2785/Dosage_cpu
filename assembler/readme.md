@@ -1,10 +1,15 @@
-# Phase 2 information and structure
+# assembler information and structure
 
 ## Intro
-* [Our ISA](www.google.com)
+* running the assembler
 * Input structure
 * Output structure
 
+
+### running the assembler
+* for running the assembler you just need to run the Main.py:  
+    `python3 Main.py `  
+    
 ### Input structure:
 * for R-type:  
     `Op  rs rt rd`  
@@ -20,4 +25,4 @@
     #### hex: Opcode-rs-rt-imd  
     
     
-**NOTICE:** if you want use your own file for input at first create `inputfile.txt` file and enter your command line by line.
+**NOTICE:** if you want use your own assembly file for input at first create `inputfile.asm` file locate it in assembly folder and run the assembler
