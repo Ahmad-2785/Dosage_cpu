@@ -32,14 +32,14 @@ thats what Compiler design all about transfering C codes to assemblies code !! .
 # Developed by
 this project is developed by group of University of Isfahan students in the compiler design and computer architecture lectures 
 When i was TA there <br />
-computer architecture 
+computer architecture :
 - Amir Arshia Hemat
 - Amir Hossein Sharifian
 - Sonia Abtahi
 - Golnush Asefi
 
 
-compiler design
+compiler design :
 - Seyed Erfan Nourbakhsh 
 - Seyed Amin Hossaini
 - Mohammad Matin Leis Saffar 
