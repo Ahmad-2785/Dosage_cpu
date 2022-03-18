@@ -1,13 +1,27 @@
-# dosage cpu
+# Whats dosage ?
 dosage is a 20bit single cycle RISC cpu based on harvard architecture with no cache or pipeline, <br />
 by having very simple and reduced instruction set it can be used for educational purpose  <br />
+<br />
 ![IMG_20210826_110946_951](https://user-images.githubusercontent.com/53050138/130913922-103b7609-2033-4ec9-bb1a-3cefda2164a0.jpg)
 
 
-# Cpu design
+# ISA
 we designed our cpu in logisim with a reduced instruction set <br />
 you can see the instruction set below: <br />
 <br />
+we defined two types of Instruction for our cpu I-types and R-types
+
+  	Opcode      REGSource     REGTar       REGDest        Func
+	/-------\    /-------\     /-------\    /-------\     /-------\    - R types
+	 0 0 0 0     0 0 1 1        0 0 1 0      0 0 0 1       1 0 0 0
+   
+ 
+  	Opcode      REGSource     REGTar            imm
+	/-------\    /-------\     /-------\    /----------------\         - I types
+	 0 0 0 1     0 0 1 1        0 0 1 0      0 0 0 0 1 0 1 0
+   
+we are trying to add new Instructions to dosage
+this is the list of Instruction we are supporting now
 |Op Code|type  |func   |Instruction                      |Behavior                                       |
 |-------|------|-------|---------------------------------|-----------------------------------------------|
 |0000   |R     |0010   |and REGSource,REGTar,REGDest     |REGDest <- REGTar & REGSource                  |
