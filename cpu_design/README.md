@@ -5,7 +5,7 @@ by having very simple and reduced instruction set it can be used for educational
 
 
 # Cpu design
-in the first phase we designed our cpu in logisim with a reduced instruction set <br />
+we designed our cpu in logisim with a reduced instruction set <br />
 you can see the instruction set below: <br />
 <br />
 |Op Code|type  |func   |Instruction                      |Behavior                                       |
